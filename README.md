@@ -6,7 +6,7 @@ Azure Developer CLI
 Azure Subscription  
 
 ## Run the MCP Server local
-Run npm install
+Run npm install  
 Run npm run build && npm run start
 
 ## Run the MCP Server in Azure
