@@ -40,3 +40,30 @@ azd up
 
 ## Tools 
 - bitcoin in USD
+
+
+## MCP Server in Microsoft Copilot Studio
+Import the Connector
+
+### Setting up the Custom Connector
+
+* Navigate to the Power Apps custom connectors page at https://make.preview.powerapps.com/customconnectors and select "+ New custom connector"
+
+* Choose "Import from GitHub" option
+
+*  Configure the import with these settings:
+    - Connector Type: Custom
+    - Branch: dev
+    - Connector: MCP-Streamable-HTTP
+
+*  Click "Continue" to proceed
+
+*  In the configuration screen:
+    - Assign a descriptive name (e.g., "Demo MCP Server for Copilot Studio")
+    - Add an appropriate description
+    - Enter your server URL in the Host field (either your dev tunnel URL like `something-3000.something.devtunnels.ms` or Azure URL like `something.azurecontainerapps.io`)
+
+* Complete the process by selecting "Create connector"
+
+### Add the MCP Server to your Copilot Studio
+Add the MCP Server to your Copilot Studio by selecting it within the "tools" tab in the Copilot Studio.
