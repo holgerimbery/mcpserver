@@ -4,6 +4,7 @@
 Node v22  
 Azure Developer CLI  
 Azure Subscription  
+a environment with "early feature access"
 
 ## Run the MCP Server local
 Start the server local in Visual Studio Code
@@ -39,7 +40,8 @@ azd up
 ```
 
 ## Tools 
-- bitcoin in USD
+- bitcoin in USD  
+  "get-bitcoin-price",  "Get current bitcoin price in USD"  
 
 
 ## MCP Server in Microsoft Copilot Studio
