@@ -6,9 +6,20 @@ Azure Developer CLI
 Azure Subscription  
 
 ## Run the MCP Server local
-Run npm install  
-Run npm run build && npm run start
+Start the server local in Visual Studio Code
+Run ```npm install```  
+Run ```npm run build && npm run start```  
 
+Forward port 3000 exposed by the server using microsoft dev tunnel
+![]()
+![]()
+![]()
+
+open the URL in your browser and add/mcp to the URL to access the MCP Server.
+the result should look like this:
+![]()
+
+![alt text](image.png)
 ## Run the MCP Server in Azure
 Make sure to login to Azure Developer CLI if you haven't done that yet.
 
