@@ -11,15 +11,16 @@ Run ```npm install```
 Run ```npm run build && npm run start```  
 
 Forward port 3000 exposed by the server using microsoft dev tunnel
-![]()
-![]()
-![]()
+![](https://raw.githubusercontent.com/holgerimbery/mcpserver/main/assets/port1.jpg)  
+![](https://raw.githubusercontent.com/holgerimbery/mcpserver/main/assets/port2.jpg)  
+![](https://raw.githubusercontent.com/holgerimbery/mcpserver/main/assets/port3.jpg)  
 
-open the URL in your browser and add/mcp to the URL to access the MCP Server.
-the result should look like this:
-![]()
 
-![alt text](image.png)
+open the URL in your browser and add ```/mcp``` to the URL to access the MCP Server.
+
+The result should look like this:
+![](https://raw.githubusercontent.com/holgerimbery/mcpserver/main/assets/port4.jpg)
+
 ## Run the MCP Server in Azure
 Make sure to login to Azure Developer CLI if you haven't done that yet.
 
