@@ -1,9 +1,9 @@
 # MCP Server for Copilot Studio Demos
 
 ## Prerequisites
-Node v22
-Azure Developer CLI
-Azure Subscription
+Node v22  
+Azure Developer CLI  
+Azure Subscription  
 
 ## Run the MCP Server local
 Run npm install
